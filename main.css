@@ -7,7 +7,7 @@ li, a {
     color: #000;
 }
 
-table .general {
+.general table {
     border-collapse: collapse;
     border-spacing: 0;
     border: 1px solid #000;
