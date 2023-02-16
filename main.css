@@ -6,7 +6,6 @@
 
 li{
     text-decoration: none;
-    list-style: none;
     color: #000;
 }
 
@@ -30,4 +29,8 @@ a:visited {
     color: gray;
     font-style: italic;
     font-size: 12.5px;
+  }
+
+  .index-notes {
+    background-color: antiquewhite;
   }
