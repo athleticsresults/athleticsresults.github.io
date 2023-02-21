@@ -34,3 +34,8 @@ a:visited {
   .index-notes {
     background-color: #f0f8ff;
   }
+
+  .drug {
+    color: #ff0000;
+    font-weight: bold;
+  }
