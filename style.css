@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: blue;
+  }
+  
+  .general table,
+  tr td {
+    border-collapse: collapse;
+  }
+  
+  .results table,
+  th,
+  td {
+    border: 1px solid #000;
+  }
+  
+  .defunct {
+    color: #ff0000;
+  }
+   
+  .gold {
+    background-color: #fae5a2;
+  }
+  .silver {
+    background-color: #dbdbdb;
+  }
+  .bronze {
+    background-color: #efcbb0;
+  }
+  
+  .host {
+    background-color: #e5e0f0;
+  }
+  
+  caption {
+    color: #808080;
+    font-style: italic;
+  }
+  
+  .drug {
+    background-color:lightcoral;
+  }
