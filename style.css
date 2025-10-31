@@ -10,12 +10,12 @@
     scroll-behavior: smooth;
   }
   
-  a {
-    text-decoration: none;
-  }
-  
+  a,
   a:visited {
-    color: blue;
+    text-decoration: none;
+    @media(prefers-color-scheme: dark) {
+        color: skyblue;
+    }
   }
   
   .general table,
